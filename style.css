@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+
+
+}
+
+
+#display {
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+
+.controls {
+    margin-top: 40px;
+
+}
+
+
+button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+
+
+    background-color:  white;
+    color: black;
+    border: 2px solid #ebebeb;
+}
+
+button:hover {
+    background-color: #f0f0f0; /* light gray hover */
+}
